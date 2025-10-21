@@ -13,7 +13,7 @@ Attributions & provenance:
 
 # Attributions / Credits
 
-- file: assets/models/smashed-atm.glb
+- file: smashed-atm.glb
   title: "Smashed ATM"
   author: "Keith Ito"
   source_url: "https://sketchfab.com/3d-models/smashed-atm-0007f632412e470bac3d57df82085d68"
