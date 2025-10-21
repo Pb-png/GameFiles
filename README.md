@@ -11,5 +11,13 @@ Attributions & provenance:
 - Every asset included in this repository must have an entry in ATTRIBUTIONS.md (or assets.json) with the original author, source URL, license, and the exact attribution text required.
 - Keep a local backup or bookmark of the original license page for each asset in case it is later removed from the original site.
 
-Contact:
-- Repo owner: @Pb-png
+# Attributions / Credits
+
+- file: assets/models/smashed-atm.glb
+  title: "Smashed ATM"
+  author: "Keith Ito"
+  source_url: "https://sketchfab.com/3d-models/smashed-atm-0007f632412e470bac3d57df82085d68"
+  license: "CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/"
+  attribution_text: "Smashed ATM by Keith Ito (https://sketchfab.com/3d-models/smashed-atm-0007f632412e470bac3d57df82085d68) — licensed under CC BY 4.0"
+  date_added: "2025-10-21"
+  notes: "Model sourced from Sketchfab embed provided by repository owner. Repository owner is redistributing under CC BY 4.0."
