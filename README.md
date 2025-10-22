@@ -9,11 +9,24 @@ Important:
 
 # Attributions / Credits
 
-- file: smashed-atm.glb
-  title: "Smashed ATM"
-  author: "Keith Ito"
-  source_url: "https://sketchfab.com/3d-models/smashed-atm-0007f632412e470bac3d57df82085d68"
-  license: "CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/"
-  attribution_text: "Smashed ATM by Keith Ito (https://sketchfab.com/3d-models/smashed-atm-0007f632412e470bac3d57df82085d68) — licensed under CC BY 4.0"
-  date_added: "2025-10-21"
-  notes: "Model sourced from Sketchfab embed provided by repository owner. Repository owner is redistributing under CC BY 4.0."
+file: smashed-atm.glb
+title: "Smashed ATM"
+author: "Keith Ito"
+source_url: "https://sketchfab.com/3d-models/smashed-atm-0007f632412e470bac3d57df82085d68"
+license: "CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/"
+copyright: "© Keith Ito"
+attribution_text: "Smashed ATM by Keith Ito (https://sketchfab.com/3d-models/smashed-atm-0007f632412e470bac3d57df82085d68) — licensed under CC BY 4.0"
+disclaimer: "No warranties are given. The material is provided 'as is'."
+date_added: "2025-10-21"
+notes: "Model sourced from Sketchfab embed provided by repository owner. Repository owner redistributes under CC BY 4.0."
+
+file: wendigo.glb
+title: "Wendigo"
+author: "Joshua Garrison"
+source_url: "https://sketchfab.com/3d-models/wendigo-0f9cbdb857c949a88bfaf2f97596de3c"
+license: "CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/"
+copyright: "© Joshua Garrison"
+attribution_text: "Wendigo by Joshua Garrison (https://sketchfab.com/3d-models/wendigo-0f9cbdb857c949a88bfaf2f97596de3c) — licensed under CC BY 4.0"
+disclaimer: "No warranties are given. The material is provided 'as is'."
+date_added: "2025-10-22"
+notes: "Model sourced from Sketchfab embed provided by repository owner. Repository owner redistributes under CC BY 4.0."
