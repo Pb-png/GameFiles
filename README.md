@@ -30,3 +30,14 @@ attribution_text: "Wendigo by Joshua Garrison (https://sketchfab.com/3d-models/w
 disclaimer: "No warranties are given. The material is provided 'as is'."
 date_added: "2025-10-22"
 notes: "Model sourced from Sketchfab embed provided by repository owner. Repository owner redistributes under CC BY 4.0."
+
+file: scary-interior.glb
+title: "Scary Interior"
+author: "speedinfected"
+source_url: "https://sketchfab.com/3d-models/scary-interior-fa7d60e783764ecfb15039bba6c05306"
+license: "CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/"
+copyright: "© speedinfected"
+attribution_text: "Scary Interior by speedinfected (https://sketchfab.com/3d-models/scary-interior-fa7d60e783764ecfb15039bba6c05306) — licensed under CC BY 4.0"
+disclaimer: "No warranties are given. The material is provided 'as is'."
+date_added: "2025-10-22"
+notes: "Model sourced from Sketchfab embed provided by repository owner. Repository owner redistributes under CC BY 4.0."
