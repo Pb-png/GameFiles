@@ -3,7 +3,7 @@
 This repository holds static assets that are publicly available for retrieval.
 
 Important:
-- This repository is public.
+- This repository is public and just used for internal filesharing.
 - All uploaded assets in this repository are distributed under the Creative Commons Attribution 4.0 International (CC BY 4.0) license unless otherwise noted per-asset in ATTRIBUTIONS.md or assets.json.
 - The repository owner (Pb-png) is not the original creator of the assets unless explicitly stated in a per-asset attribution entry. Each asset's original author and source must be credited as required by CC BY 4.0.
 
