@@ -31,7 +31,7 @@ disclaimer: "No warranties are given. The material is provided 'as is'."
 date_added: "2025-10-22"
 notes: "Model sourced from Sketchfab embed provided by repository owner. Repository owner redistributes under CC BY 4.0."
 
-file: scary_interior.glb
+file: scary_interior.glb & scary_interior_hr.glb
 title: "Scary Interior"
 author: "speedinfected"
 source_url: "https://sketchfab.com/3d-models/scary-interior-fa7d60e783764ecfb15039bba6c05306"
