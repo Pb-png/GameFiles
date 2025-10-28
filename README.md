@@ -41,3 +41,15 @@ attribution_text: "Scary Interior by speedinfected (https://sketchfab.com/3d-mod
 disclaimer: "No warranties are given. The material is provided 'as is'."
 date_added: "2025-10-22"
 notes: "Model sourced from Sketchfab embed provided by repository owner. Repository owner redistributes under CC BY 4.0."
+
+file: alchemy-table.glb
+title: "Alchemy Table - game model"
+author: "Marcin Cecot"
+source_url: "https://sketchfab.com/3d-models/alchemy-table-game-model-ecc545e35e7c4d5dba91f94b98ba95b5"
+license: "CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/"
+copyright: "© Marcin Cecot"
+attribution_text: "Alchemy Table - game model by Marcin Cecot (https://sketchfab.com/3d-models/alchemy-table-game-model-ecc545e35e7c4d5dba91f94b98ba95b5) — licensed under CC BY 4.0"
+disclaimer: "No warranties are given. The material is provided 'as is'."
+date_added: "2025-10-22"
+notes: "Model sourced from Sketchfab embed provided by repository owner. Repository owner redistributes under CC BY 4.0."
+
