@@ -75,3 +75,13 @@ disclaimer: "No warranties are given. The material is provided 'as is'."
 date_added: "2025-10-22"
 notes: "Model sourced from Sketchfab embed provided by repository owner. Repository owner redistributes under CC BY 4.0."
 
+file: old_ussr_lamp.glb
+title: "Old 'USSR' Lamp"
+author: "Evgenii Sobolev"
+source_url: "https://sketchfab.com/3d-models/old-ussr-lamp-73295d1f0d304975a5739c760e5fca7c"
+license: "CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/"
+copyright: "© Evgenii Sobolev"
+attribution_text: "Old 'USSR' Lamp by Evgenii Sobolev (https://sketchfab.com/3d-models/old-ussr-lamp-73295d1f0d304975a5739c760e5fca7c) — licensed under CC BY 4.0"
+disclaimer: "No warranties are given. The material is provided 'as is'."
+date_added: "2025-10-22"
+notes: "Model sourced from Sketchfab embed provided by repository owner. Repository owner redistributes under CC BY 4.0."
