@@ -85,3 +85,14 @@ attribution_text: "Old 'USSR' Lamp by Evgenii Sobolev (https://sketchfab.com/3d-
 disclaimer: "No warranties are given. The material is provided 'as is'."
 date_added: "2025-10-22"
 notes: "Model sourced from Sketchfab embed provided by repository owner. Repository owner redistributes under CC BY 4.0."
+
+file: sony_trinitron_prl.glb
+title: "Sony Trinitron PRL"
+author: "Martin Trafas"
+source_url: "https://sketchfab.com/3d-models/sony-trinitron-prl-dce3f599de634388aef1eaf49e3606bf"
+license: "CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/"
+copyright: "© Martin Trafas"
+attribution_text: "Sony Trinitron PRL by Martin Trafas (https://sketchfab.com/3d-models/sony-trinitron-prl-dce3f599de634388aef1eaf49e3606bf) — licensed under CC BY 4.0"
+disclaimer: "No warranties are given. The material is provided 'as is'."
+date_added: "2025-10-22"
+notes: "Model sourced from Sketchfab embed provided by repository owner. Repository owner redistributes under CC BY 4.0."
