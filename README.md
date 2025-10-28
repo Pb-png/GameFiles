@@ -64,4 +64,14 @@ disclaimer: "No warranties are given. The material is provided 'as is'."
 date_added: "2025-10-22"
 notes: "Model sourced from Sketchfab embed provided by repository owner. Repository owner redistributes under CC BY 4.0."
 
+file: prison_block.glb
+title: "Prison Block"
+author: "Sergi Trojanski"
+source_url: "https://sketchfab.com/3d-models/prison-block-280a40e273c5445b9f0564da90678e0f"
+license: "CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/"
+copyright: "© Sergi Trojanski"
+attribution_text: "Prison Block by Sergi Trojanski (https://sketchfab.com/3d-models/prison-block-280a40e273c5445b9f0564da90678e0f) — licensed under CC BY 4.0"
+disclaimer: "No warranties are given. The material is provided 'as is'."
+date_added: "2025-10-22"
+notes: "Model sourced from Sketchfab embed provided by repository owner. Repository owner redistributes under CC BY 4.0."
 
