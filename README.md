@@ -96,3 +96,14 @@ attribution_text: "Sony Trinitron PRL by Martin Trafas (https://sketchfab.com/3d
 disclaimer: "No warranties are given. The material is provided 'as is'."
 date_added: "2025-10-22"
 notes: "Model sourced from Sketchfab embed provided by repository owner. Repository owner redistributes under CC BY 4.0."
+
+file: space_age_radio.glb
+title: "Space Age Radio"
+author: "Tom Seddon"
+source_url: "https://sketchfab.com/3d-models/space-age-radio-a3c888aed8424954b8e93980cd107fc6"
+license: "CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/"
+copyright: "© Tom Seddon"
+attribution_text: "Space Age Radio by Tom Seddon (https://sketchfab.com/3d-models/space-age-radio-a3c888aed8424954b8e93980cd107fc6) — licensed under CC BY 4.0"
+disclaimer: "No warranties are given. The material is provided 'as is'."
+date_added: "2025-10-22"
+notes: "Model sourced from Sketchfab embed provided by repository owner. Repository owner redistributes under CC BY 4.0."
