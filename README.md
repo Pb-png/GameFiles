@@ -107,3 +107,14 @@ attribution_text: "Space Age Radio by Tom Seddon (https://sketchfab.com/3d-model
 disclaimer: "No warranties are given. The material is provided 'as is'."
 date_added: "2025-10-22"
 notes: "Model sourced from Sketchfab embed provided by repository owner. Repository owner redistributes under CC BY 4.0."
+
+file: mechanical_table.glb
+title: "Mechanical Table"
+author: "Mehdi Shahsavan"
+source_url: "https://sketchfab.com/3d-models/mechanical-table-6da03934179a4347ae835e79bc9fccef"
+license: "CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/"
+copyright: "© Mehdi Shahsavan"
+attribution_text: "Mechanical Table by Mehdi Shahsavan (https://sketchfab.com/3d-models/mechanical-table-6da03934179a4347ae835e79bc9fccef) — licensed under CC BY 4.0"
+disclaimer: "No warranties are given. The material is provided 'as is'."
+date_added: "2025-10-22"
+notes: "Model sourced from Sketchfab embed provided by repository owner. Repository owner redistributes under CC BY 4.0."
