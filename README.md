@@ -118,3 +118,14 @@ attribution_text: "Mechanical Table by Mehdi Shahsavan (https://sketchfab.com/3d
 disclaimer: "No warranties are given. The material is provided 'as is'."
 date_added: "2025-10-22"
 notes: "Model sourced from Sketchfab embed provided by repository owner. Repository owner redistributes under CC BY 4.0."
+
+file: 1980_tv.glb
+title: "1980 TV"
+author: "Warkarma"
+source_url: "https://sketchfab.com/3d-models/1980-tv-db5a7d5bb378480bb40da086aab44c65"
+license: "CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/"
+copyright: "© Warkarma"
+attribution_text: "1980 TV by Warkarma (https://sketchfab.com/3d-models/1980-tv-db5a7d5bb378480bb40da086aab44c65) — licensed under CC BY 4.0"
+disclaimer: "No warranties are given. The material is provided 'as is'."
+date_added: "2025-10-22"
+notes: "Model sourced from Sketchfab embed provided by repository owner. Repository owner redistributes under CC BY 4.0."
