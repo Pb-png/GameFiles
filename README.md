@@ -129,3 +129,15 @@ attribution_text: "1980 TV by Warkarma (https://sketchfab.com/3d-models/1980-tv-
 disclaimer: "No warranties are given. The material is provided 'as is'."
 date_added: "2025-10-22"
 notes: "Model sourced from Sketchfab embed provided by repository owner. Repository owner redistributes under CC BY 4.0."
+
+file: bank_teller_number_screen.glb
+title: "Bank Teller Number Screen"
+author: "abdillaamy"
+source_url: "https://sketchfab.com/3d-models/bank-teller-number-screen-dfef1bb5729c4f799b15c7d19ef78fbd"
+license: "CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/"
+copyright: "© abdillaamy"
+attribution_text: "Bank Teller Number Screen by abdillaamy (https://sketchfab.com/3d-models/bank-teller-number-screen-dfef1bb5729c4f799b15c7d19ef78fbd) — licensed under CC BY 4.0"
+disclaimer: "No warranties are given. The material is provided 'as is'."
+date_added: "2025-10-22"
+notes: "Model sourced from Sketchfab embed provided by repository owner. Repository owner redistributes under CC BY 4.0."
+
