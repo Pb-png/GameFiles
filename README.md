@@ -151,3 +151,14 @@ attribution_text: "Cables by crisanim3d (https://sketchfab.com/3d-models/cables-
 disclaimer: "No warranties are given. The material is provided 'as is'."
 date_added: "2025-10-22"
 notes: "Model sourced from Sketchfab embed provided by repository owner. Redistribution under CC BY 4.0 with attribution preserved."
+
+file: cables_2.glb
+title: "Cables"
+author: "Dumokan Art"
+source_url: "https://sketchfab.com/3d-models/cables-2f88376af114443fa9cf4370944ba920"
+license: "CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/"
+copyright: "© Dumokan Art"
+attribution_text: "Cables by Dumokan Art (https://sketchfab.com/3d-models/cables-2f88376af114443fa9cf4370944ba920) — licensed under CC BY 4.0"
+disclaimer: "No warranties are given. The material is provided 'as is'."
+date_added: "2025-10-22"
+notes: "Model sourced from Sketchfab embed. Redistribution permitted under CC BY 4.0 with attribution."
