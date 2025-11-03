@@ -141,3 +141,13 @@ disclaimer: "No warranties are given. The material is provided 'as is'."
 date_added: "2025-10-22"
 notes: "Model sourced from Sketchfab embed provided by repository owner. Repository owner redistributes under CC BY 4.0."
 
+file: cables.glb
+title: "Cables"
+author: "crisanim3d"
+source_url: "https://sketchfab.com/3d-models/cables-f4ea84d06fb04275bc2d30741bad1680"
+license: "CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/"
+copyright: "© crisanim3d"
+attribution_text: "Cables by crisanim3d (https://sketchfab.com/3d-models/cables-f4ea84d06fb04275bc2d30741bad1680) — licensed under CC BY 4.0"
+disclaimer: "No warranties are given. The material is provided 'as is'."
+date_added: "2025-10-22"
+notes: "Model sourced from Sketchfab embed provided by repository owner. Redistribution under CC BY 4.0 with attribution preserved."
