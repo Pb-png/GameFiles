@@ -195,3 +195,14 @@ attribution_text: "Backrooms Long Hall by Huuxloc (https://sketchfab.com/3d-mode
 disclaimer: "No warranties are given. The material is provided 'as is'."
 date_added: "2025-10-22"
 notes: "Model sourced from Sketchfab embed. Redistribution permitted under CC BY 4.0 with attribution."
+
+file: office_desk_7_mb.glb
+title: "Office Desk_7_MB"
+author: "Mehdi Shahsavan"
+source_url: "https://sketchfab.com/3d-models/office-desk-7-mb-18abda12d33b4231aa13f92a291c717e"
+license: "CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/"
+copyright: "© Mehdi Shahsavan"
+attribution_text: "Office Desk_7_MB by Mehdi Shahsavan (https://sketchfab.com/3d-models/office-desk-7-mb-18abda12d33b4231aa13f92a291c717e) — licensed under CC BY 4.0"
+disclaimer: "No warranties are given. The material is provided 'as is'."
+date_added: "2025-10-22"
+notes: "Model sourced from Sketchfab embed. Redistribution permitted under CC BY 4.0 with attribution."
