@@ -239,3 +239,14 @@ attribution_text: "old computer by nameless (https://sketchfab.com/3d-models/old
 disclaimer: "No warranties are given. The material is provided 'as is'."
 date_added: "2025-10-22"
 notes: "Model sourced from Sketchfab embed. Redistribution permitted under CC BY 4.0 with proper attribution."
+
+file: pc_monitor.glb
+title: "PC Monitor"
+author: "Maxime66410"
+source_url: "https://sketchfab.com/3d-models/pc-monitor-ee9b9188994c4bc7af8b474aee3bdda4"
+license: "CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/"
+copyright: "© Maxime66410"
+attribution_text: "PC Monitor by Maxime66410 (https://sketchfab.com/3d-models/pc-monitor-ee9b9188994c4bc7af8b474aee3bdda4) — licensed under CC BY 4.0"
+disclaimer: "No warranties are given. The material is provided 'as is'."
+date_added: "2025-11-14"
+notes: "Model sourced from Sketchfab embed. Redistribution permitted under CC BY 4.0 with proper attribution."
