@@ -228,3 +228,14 @@ attribution_text: "Office Chair Modern by thethieme (https://sketchfab.com/3d-mo
 disclaimer: "No warranties are given. The material is provided 'as is'."
 date_added: "2025-10-22"
 notes: "Model sourced from Sketchfab embed. Redistribution permitted under CC BY 4.0 with attribution."
+
+file: old_computer.glb
+title: "old computer"
+author: "nameless"
+source_url: "https://sketchfab.com/3d-models/old-computer-8183647717084f008969c22b7fcd1b8a"
+license: "CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/"
+copyright: "© nameless"
+attribution_text: "old computer by nameless (https://sketchfab.com/3d-models/old-computer-8183647717084f008969c22b7fcd1b8a) — licensed under CC BY 4.0"
+disclaimer: "No warranties are given. The material is provided 'as is'."
+date_added: "2025-10-22"
+notes: "Model sourced from Sketchfab embed. Redistribution permitted under CC BY 4.0 with proper attribution."
