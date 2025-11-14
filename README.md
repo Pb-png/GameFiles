@@ -250,3 +250,14 @@ attribution_text: "PC Monitor by Maxime66410 (https://sketchfab.com/3d-models/pc
 disclaimer: "No warranties are given. The material is provided 'as is'."
 date_added: "2025-11-14"
 notes: "Model sourced from Sketchfab embed. Redistribution permitted under CC BY 4.0 with proper attribution."
+
+file: room_partition_model_5175-5.glb
+title: "Room Partition Model 5175-5"
+author: "iDivide"
+source_url: "https://sketchfab.com/3d-models/room-partition-model-5175-5-0f244a4985134d38ae4dec414499ccee"
+license: "CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/"
+copyright: "© iDivide"
+attribution_text: "Room Partition Model 5175-5 by iDivide (https://sketchfab.com/3d-models/room-partition-model-5175-5-0f244a4985134d38ae4dec414499ccee) — licensed under CC BY 4.0"
+disclaimer: "No warranties are given. The material is provided 'as is'."
+date_added: "2025-11-14"
+notes: "Model sourced from Sketchfab embed. Redistribution permitted under CC BY 4.0 with proper attribution."
