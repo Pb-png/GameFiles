@@ -184,3 +184,14 @@ attribution_text: "Office Studio by R-LAB (https://sketchfab.com/3d-models/offic
 disclaimer: "No warranties are given. The material is provided 'as is'."
 date_added: "2025-10-22"
 notes: "Model sourced from Sketchfab embed. Redistribution permitted under CC BY 4.0 with attribution."
+
+file: backrooms_long_hall.glb
+title: "Backrooms Long Hall"
+author: "Huuxloc"
+source_url: "https://sketchfab.com/3d-models/backrooms-long-hall-b5c9fe79d00f41df9b40a8d25d1eb82c"
+license: "CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/"
+copyright: "© Huuxloc"
+attribution_text: "Backrooms Long Hall by Huuxloc (https://sketchfab.com/3d-models/backrooms-long-hall-b5c9fe79d00f41df9b40a8d25d1eb82c) — licensed under CC BY 4.0"
+disclaimer: "No warranties are given. The material is provided 'as is'."
+date_added: "2025-10-22"
+notes: "Model sourced from Sketchfab embed. Redistribution permitted under CC BY 4.0 with attribution."
