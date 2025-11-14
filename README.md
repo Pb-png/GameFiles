@@ -206,3 +206,14 @@ attribution_text: "Office Desk_7_MB by Mehdi Shahsavan (https://sketchfab.com/3d
 disclaimer: "No warranties are given. The material is provided 'as is'."
 date_added: "2025-10-22"
 notes: "Model sourced from Sketchfab embed. Redistribution permitted under CC BY 4.0 with attribution."
+
+file: office_table_white.glb
+title: "Office Table"
+author: "Agha.Najam"
+source_url: "https://sketchfab.com/3d-models/office-table-80130830a9814e9298f11920ad0b7275"
+license: "CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/"
+copyright: "© Agha.Najam"
+attribution_text: "Office Table White by Agha.Najam (https://sketchfab.com/3d-models/office-table-80130830a9814e9298f11920ad0b7275) — licensed under CC BY 4.0"
+disclaimer: "No warranties are given. The material is provided 'as is'."
+date_added: "2025-10-22"
+notes: "Model sourced from Sketchfab embed. Redistribution permitted under CC BY 4.0 with attribution."
