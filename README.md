@@ -217,3 +217,14 @@ attribution_text: "Office Table White by Agha.Najam (https://sketchfab.com/3d-mo
 disclaimer: "No warranties are given. The material is provided 'as is'."
 date_added: "2025-10-22"
 notes: "Model sourced from Sketchfab embed. Redistribution permitted under CC BY 4.0 with attribution."
+
+file: office_chair_modern.glb
+title: "Office Chair Modern"
+author: "thethieme"
+source_url: "https://sketchfab.com/3d-models/office-chair-modern-675f34f7304e4d92812a41e9750539aa"
+license: "CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/"
+copyright: "© thethieme"
+attribution_text: "Office Chair Modern by thethieme (https://sketchfab.com/3d-models/office-chair-modern-675f34f7304e4d92812a41e9750539aa) — licensed under CC BY 4.0"
+disclaimer: "No warranties are given. The material is provided 'as is'."
+date_added: "2025-10-22"
+notes: "Model sourced from Sketchfab embed. Redistribution permitted under CC BY 4.0 with attribution."
