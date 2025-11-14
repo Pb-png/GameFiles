@@ -173,3 +173,14 @@ attribution_text: "Low poly PC Cable by Paul (https://sketchfab.com/3d-models/lo
 disclaimer: "No warranties are given. The material is provided 'as is'."
 date_added: "2025-10-22"
 notes: "Model sourced from Sketchfab embed. Redistribution permitted under CC BY 4.0 with attribution."
+
+file: office_studio.glb
+title: "Office Studio"
+author: "R-LAB"
+source_url: "https://sketchfab.com/3d-models/office-studio-8fc5286645384538a7c405b4457f562a"
+license: "CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/"
+copyright: "© R-LAB"
+attribution_text: "Office Studio by R-LAB (https://sketchfab.com/3d-models/office-studio-8fc5286645384538a7c405b4457f562a) — licensed under CC BY 4.0"
+disclaimer: "No warranties are given. The material is provided 'as is'."
+date_added: "2025-10-22"
+notes: "Model sourced from Sketchfab embed. Redistribution permitted under CC BY 4.0 with attribution."
