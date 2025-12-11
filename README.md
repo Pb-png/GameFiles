@@ -261,3 +261,14 @@ attribution_text: "Room Partition Model 5175-5 by iDivide (https://sketchfab.com
 disclaimer: "No warranties are given. The material is provided 'as is'."
 date_added: "2025-11-14"
 notes: "Model sourced from Sketchfab embed. Redistribution permitted under CC BY 4.0 with proper attribution."
+
+file: vintage_boiler.glb
+title: "Vintage Boiler"
+author: "HippoStance"
+source_url: "https://sketchfab.com/3d-models/vintage-boiler-8a1a854958604320b172d03e7cfb9768"
+license: "CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/"
+copyright: "© HippoStance"
+attribution_text: "Vintage Boiler by HippoStance (https://sketchfab.com/3d-models/vintage-boiler-8a1a854958604320b172d03e7cfb9768) — licensed under CC BY 4.0"
+disclaimer: "No warranties are given. The material is provided 'as is'."
+date_added: "2025-11-14"
+notes: "Model sourced from Sketchfab embed. Redistribution permitted under CC BY 4.0 with proper attribution."
